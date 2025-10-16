@@ -1,6 +1,6 @@
 ### `README.md`
 
-````markdown
+
 # Mini-GitHub
 
 [![Go](https://img.shields.io/badge/Go-1.21-blue?logo=go)](https://golang.org/)
@@ -41,7 +41,7 @@ Users can register, create repositories, push code, and manage projects locally.
 ```bash
 git clone github.com:GordenArcher/mini-github.git
 cd mini-github
-````
+
 
 2. **Create a `.env` file** with your configuration:
 
