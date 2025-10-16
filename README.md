@@ -45,7 +45,7 @@ cd mini-github
 
 2. **Create a `.env` file** with your configuration:
 
-```env
+``` env
 SERVER_PORT=8080
 DATABASE_URL=postgres://user:password@localhost:5432/dbname
 REDIS_ADDR=localhost:6379
@@ -146,4 +146,3 @@ tests      # Test unit for auth
 
 This project is licensed under the MIT License.
 
-```
