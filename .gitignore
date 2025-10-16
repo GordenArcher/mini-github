@@ -1,0 +1,30 @@
+# Go build files
+/bin/
+/obj/
+/*.exe
+/*.exe~
+/*.dll
+/*.so
+/*.dylib
+
+# Go modules
+/go.sum
+/go.mod
+/vendor/
+
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+
+# IDE / Editor files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Redis dump
+dump.rdb
